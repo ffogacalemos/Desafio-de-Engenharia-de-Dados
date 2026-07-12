@@ -34,7 +34,7 @@ Após a execução, o projeto deverá gerar:
 ### Esquema sugerido
 A modelagem foi proposta como um *Star Schema* com duas tabelas dimensão e uma tabela fato.
 
-![Diagrama estrela](assets\Diagrama_Estrela.png)
+![Diagrama estrela](assets/Diagrama_Estrela.png)
 
 ### Modelagem em texto
 ```text
